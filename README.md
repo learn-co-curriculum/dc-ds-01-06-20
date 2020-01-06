@@ -16,3 +16,4 @@
 # Module 1 🌱
 | Topic | Code | Video |
 |:---|:---|:---|
+|Intro to Bash| n/a |n/a|
