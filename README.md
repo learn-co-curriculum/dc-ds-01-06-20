@@ -16,4 +16,4 @@
 # Module 1 🌱
 | Topic | Code | Video |
 |:---|:---|:---|
-|Intro to Bash| n/a |n/a|
+|Intro to Bash| [solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/week-1/day-1-bash/terminal.html) |n/a|
