@@ -23,4 +23,6 @@
 |Numpy & Libraries|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-4-libraries-numpy/libraries-numpy-pandas-enkeboll.ipynb)|[youtube](https://youtu.be/cYbltXh1uTU)|
 |Pandas Pt. 1|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-5-pandas-1/pandas-1-enkeboll.ipynb)|[youtube](https://youtu.be/q6EZQDkOFG0)|
 |Pandas Pt. 2|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-6-pandas-2/manipulating_data_with_pandas-enkeboll.ipynb)|[youtube](https://youtu.be/hMrfZ9fsxjk)|
+|Pandas Pt. 3|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-7-pandas-3/manipulating_data_with_pandas-enkeboll.ipynb)|[youtube](https://youtu.be/_RwO_Y2HHvE)|
+|Pandas Tips & Tricks|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-7-coachlabpandas/Pandas%20Tips%20%26%20Review.ipynb)|[youtube]()|
  
