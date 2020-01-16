@@ -25,4 +25,5 @@
 |Pandas Pt. 2|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-6-pandas-2/manipulating_data_with_pandas-enkeboll.ipynb)|[youtube](https://youtu.be/hMrfZ9fsxjk)|
 |Pandas Pt. 3|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-7-pandas-3/manipulating_data_with_pandas-enkeboll.ipynb)|[youtube](https://youtu.be/_RwO_Y2HHvE)|
 |Pandas Tips & Tricks|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-7-coachlabpandas/Pandas%20Tips%20%26%20Review.ipynb)|[youtube](https://www.youtube.com/watch?v=40O2nfFtc4E&list=PLc6AmvC5ZybyO-sW8YdyJ86SRl4IZre0t&index=10&t=0s)|
+|Matplotlib|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-8-matplotlib/matplotlib-intro-enkeboll.ipynb)|[youtube](https://youtu.be/nOONXZpbRXE)|
  
