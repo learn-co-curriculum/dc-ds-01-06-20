@@ -27,4 +27,5 @@
 |Pandas Tips & Tricks|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-7-coachlabpandas/Pandas%20Tips%20%26%20Review.ipynb)|[youtube](https://www.youtube.com/watch?v=40O2nfFtc4E&list=PLc6AmvC5ZybyO-sW8YdyJ86SRl4IZre0t&index=10&t=0s)|
 |Matplotlib|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-8-matplotlib/matplotlib-intro-enkeboll.ipynb)|[youtube](https://youtu.be/nOONXZpbRXE)|
 |Seaborn|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-9-seaborn/seaborn-enkeboll.ipynb)|[youtube](https://youtu.be/7aH7cgsACoE)|
+|Code Cleanliness|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-10-code-cleanliness/coding_best_practices-enkeboll.ipynb)|[youtube](https://youtu.be/YjTagvqJS40)|
  
