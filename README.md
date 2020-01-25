@@ -28,4 +28,9 @@
 |Matplotlib|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-8-matplotlib/matplotlib-intro-enkeboll.ipynb)|[youtube](https://youtu.be/nOONXZpbRXE)|
 |Seaborn|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-9-seaborn/seaborn-enkeboll.ipynb)|[youtube](https://youtu.be/7aH7cgsACoE)|
 |Code Cleanliness|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-10-code-cleanliness/coding_best_practices-enkeboll.ipynb)|[youtube](https://youtu.be/YjTagvqJS40)|
+
+# Module 2 🌿
+| Topic | Code | Video |
+|:---|:---|:---|
+| SQL Part 1|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-2/day-1-sql/sql-to-pandas.ipynb) |[youtube](https://youtu.be/OaXeUKxUVc4) |
  
