@@ -33,4 +33,5 @@
 | Topic | Code | Video |
 |:---|:---|:---|
 | SQL Part 1|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-2/day-1-sql/sql-to-pandas.ipynb) |[youtube](https://youtu.be/OaXeUKxUVc4) |
+|OOP|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-2/day-2-oop/OOP.ipynb)|[youtube](https://youtu.be/hjP7wE0Pfq0)|
  
