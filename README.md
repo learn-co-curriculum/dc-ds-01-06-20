@@ -38,5 +38,5 @@
 |Mod 1 Assessment Review|N/A|[youtube](https://youtu.be/-DoZ_vpPp0c)|
 |API|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-2/day-3-apis/json-api.ipynb)|[youtube](https://youtu.be/PIReFkpkH-U)|
 |Web Scraping|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-2/day-4-webscraping/webscraping-enkeboll.ipynb)|[youtube](https://youtu.be/ZSbR1U8Df68)|
-|API & Webscraping Practice|[solution]()|[youtube]()|
+|API & Webscraping Practice|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-2/day-4-CoachLabWebscrapingAPI/webscrapingAPILab.ipynb)|N/A|
  
