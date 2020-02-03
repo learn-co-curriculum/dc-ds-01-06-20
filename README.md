@@ -41,3 +41,7 @@
 |API & Webscraping Practice|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-2/day-4-CoachLabWebscrapingAPI/webscrapingAPILab.ipynb)|N/A|
 |OOP Part 2|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-2/day-5-oop-2/oop-2.ipynb)|[youtube](https://youtu.be/Z-LvMgjTpDk)|
  
+ # Module 3 ☘️
+| Topic | Code | Video |
+|:---|:---|:---|
+|Combinatorics & Probability|[solution]()|[youtube]()|
