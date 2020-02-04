@@ -44,4 +44,6 @@
  # Module 3 ☘️
 | Topic | Code | Video |
 |:---|:---|:---|
-|Combinatorics & Probability|[solution]()|[youtube]()|
+|Probability|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-3/day-1-probability/probability.ipynb)|[youtube](https://youtu.be/HB3S0XxzR6c)|
+|Random Variables|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-3/day-2-random_variables/distributions.ipynb)|[youtube](https://youtu.be/WJ-NOIf6Ldg)|
+
