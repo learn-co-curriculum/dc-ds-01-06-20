@@ -55,3 +55,4 @@
 | Topic | Code | Video |
 |:---|:---|:---|
 |Multiple Linear Regression|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-3/day-10-Simple_Linear_Regression)|[youtube](https://youtu.be/XBIcBd_DSbA)|
+|Polynomial Regression|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-3/day-10-Simple_Linear_Regression)|[youtube](https://youtu.be/hMmd1Jd2IEw)|
