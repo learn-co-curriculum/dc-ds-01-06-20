@@ -51,3 +51,7 @@
 |Effect Size|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-3/day-7-Power_effect_size/effect_size_and_power-1118.ipynb)|[youtube](https://youtu.be/Zr8nkGRsTp0)|
 |Power and Bootstrap|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-3/day-8-2-Statistical_Power/Power_of_statistical_test.ipynb)|[youtube 1](https://youtu.be/D3Ur9wtzBwk) [youtube 2](https://youtu.be/1P3CLObcbrY)|
 
+# Module 4 :evergreen_tree:
+| Topic | Code | Video |
+|:---|:---|:---|
+|Multiple Linear Regression|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-3/day-10-Simple_Linear_Regression)|[youtube](https://youtu.be/XBIcBd_DSbA)|
