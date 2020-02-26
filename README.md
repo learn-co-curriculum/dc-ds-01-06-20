@@ -56,3 +56,4 @@
 |:---|:---|:---|
 |Multiple Linear Regression|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-3/day-10-Simple_Linear_Regression)|[youtube](https://youtu.be/XBIcBd_DSbA)|
 |Polynomial Regression|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-3/day-10-Simple_Linear_Regression)|[youtube](https://youtu.be/hMmd1Jd2IEw)|
+|Regularization|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/mod-4/Day-3-Lasso-Ridge)|[youtube](https://youtu.be/HRC-ISGZ14s)|
