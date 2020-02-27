@@ -57,3 +57,5 @@
 |Multiple Linear Regression|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-3/day-10-Simple_Linear_Regression)|[youtube](https://youtu.be/XBIcBd_DSbA)|
 |Polynomial Regression|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-3/day-10-Simple_Linear_Regression)|[youtube](https://youtu.be/hMmd1Jd2IEw)|
 |Regularization|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/mod-4/Day-3-Lasso-Ridge)|[youtube](https://youtu.be/HRC-ISGZ14s)|
+|Logistic Regression|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/mod-4/Day-5-Logistic_Regression)|[youtube](https://youtu.be/4IjSWX5saf8)|
+|Classifcation|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/mod-4/Day-6-Classification_metrics)|[youtube part 1](https://youtu.be/2A7pfG2ZVVc) [youtube part 2](https://youtu.be/z9qZmVTWutk)|
