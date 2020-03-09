@@ -63,4 +63,4 @@
 | Topic | Code | Video |
 |:---|:---|:---|
 |Decision Tree|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-1-Decision_Trees)|[youtube](https://youtu.be/M9NR4aIo9A8)|
-|Random Forest|[solution](|Intro to Bash| [solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-1-Decision_Trees) |[youtube](https://youtu.be/0NRpIHMaVZs)|
+|Random Forest|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-1-Decision_Trees) |[youtube](https://youtu.be/0NRpIHMaVZs)|
