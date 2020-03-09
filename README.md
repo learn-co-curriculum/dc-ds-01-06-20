@@ -16,7 +16,6 @@
 # Module 1 🌱
 | Topic | Code | Video |
 |:---|:---|:---|
-|Intro to Bash| [solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-1-bash/terminal.html) |[youtube](https://youtu.be/0NRpIHMaVZs)|
 |Python pt. 1|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-2-python-1/python-fundamentals-enkeboll.ipynb)|[youtube](https://youtu.be/7kVSR_7HSwg)|
 |Python pt. 2|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-1/day-3-python-2/python-2-enkeboll.ipynb)|[youtube](https://youtu.be/lNTEQQz4FPU)|
 |Terminal Tips & Tricks|N/A|[youtube](https://youtu.be/UCZtT_yckcI)|
@@ -59,3 +58,9 @@
 |Regularization|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/mod-4/Day-3-Lasso-Ridge)|[youtube](https://youtu.be/HRC-ISGZ14s)|
 |Logistic Regression|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/mod-4/Day-5-Logistic_Regression)|[youtube](https://youtu.be/4IjSWX5saf8)|
 |Classifcation|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/mod-4/Day-6-Classification_metrics)|[youtube part 1](https://youtu.be/2A7pfG2ZVVc) [youtube part 2](https://youtu.be/z9qZmVTWutk)|
+
+# Module 4 :cactus:
+| Topic | Code | Video |
+|:---|:---|:---|
+|Decision Tree|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-1-Decision_Trees)|[youtube](https://youtu.be/M9NR4aIo9A8)|
+|Random Forest|[solution](|Intro to Bash| [solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-1-Decision_Trees) |[youtube](https://youtu.be/0NRpIHMaVZs)|
