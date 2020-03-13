@@ -59,8 +59,9 @@
 |Logistic Regression|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/mod-4/Day-5-Logistic_Regression)|[youtube](https://youtu.be/4IjSWX5saf8)|
 |Classifcation|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/mod-4/Day-6-Classification_metrics)|[youtube part 1](https://youtu.be/2A7pfG2ZVVc) [youtube part 2](https://youtu.be/z9qZmVTWutk)|
 
-# Module 4 :cactus:
+# Module 5 :cactus:
 | Topic | Code | Video |
 |:---|:---|:---|
 |Decision Tree|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-1-Decision_Trees)|[youtube](https://youtu.be/M9NR4aIo9A8)|
 |Random Forest|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-1-Decision_Trees) |[youtube](https://youtu.be/0NRpIHMaVZs)|
+|Pipelines|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-6-pipelines) |[youtube](https://youtu.be/i8SmB622Wms)|
