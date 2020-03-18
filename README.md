@@ -43,6 +43,7 @@
 # Module 3 ☘️
 | Topic | Code | Video |
 |:---|:---|:---|
+|Mod 2 Assessment Review|N/A|[youtube](https://www.youtube.com/watch?v=jU1wWZVtAh4)|
 |Probability|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-3/day-1-probability/probability.ipynb)|[youtube](https://youtu.be/HB3S0XxzR6c)|
 |Random Variables|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-3/day-2-random_variables/distributions.ipynb)|[youtube](https://youtu.be/WJ-NOIf6Ldg)|
 |Hypothesis Testing|[solution](https://github.com/learn-co-students/dc-ds-010620/blob/master/module-3/day-4-hypothesis-testing/hypothesis_testing.ipynb)|[youtube](https://youtu.be/B6TikUeLewM)|
