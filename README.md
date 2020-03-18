@@ -58,6 +58,7 @@
 |Regularization|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/mod-4/Day-3-Lasso-Ridge)|[youtube](https://youtu.be/HRC-ISGZ14s)|
 |Logistic Regression|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/mod-4/Day-5-Logistic_Regression)|[youtube](https://youtu.be/4IjSWX5saf8)|
 |Classifcation|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/mod-4/Day-6-Classification_metrics)|[youtube part 1](https://youtu.be/2A7pfG2ZVVc) [youtube part 2](https://youtu.be/z9qZmVTWutk)|
+|Mod 4 Assessment Review|N/A|[youtube](https://www.youtube.com/watch?v=Irc_DSuIvCw)|
 
 # Module 5 :cactus:
 | Topic | Code | Video |
