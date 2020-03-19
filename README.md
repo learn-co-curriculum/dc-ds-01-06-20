@@ -67,3 +67,5 @@
 |Decision Tree|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-1-Decision_Trees)|[youtube](https://youtu.be/M9NR4aIo9A8)|
 |Random Forest|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-1-Decision_Trees) |[youtube](https://youtu.be/0NRpIHMaVZs)|
 |Pipelines|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-6-pipelines) |[youtube](https://youtu.be/i8SmB622Wms)|
+|Hadoop & Spark|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-7-hadoop-spark) |[youtube](https://youtu.be/11DXWsZ9plk)|
+
