@@ -68,4 +68,4 @@
 |Random Forest|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-1-Decision_Trees) |[youtube](https://youtu.be/0NRpIHMaVZs)|
 |Pipelines|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-6-pipelines) |[youtube](https://youtu.be/i8SmB622Wms)|
 |Hadoop & Spark|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-7-hadoop-spark) |[youtube](https://youtu.be/11DXWsZ9plk)|
-
+|Docker/SparkML|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-7-hadoop-spark) |[Morning](https://youtu.be/11DXWsZ9plk) [Afternoon](https://wework.zoom.com/rec/share/xdFRdL7-p1xORp38yGrDWaN_DpzVeaa80HRL-_RYnRrNfW5KVxofZ20kT5aqxScb) Password: commitment|
