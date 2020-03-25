@@ -70,7 +70,7 @@
 |Hadoop & Spark|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-7-hadoop-spark) |[youtube](https://youtu.be/11DXWsZ9plk)|
 |Docker/SparkML|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-5/day-7-hadoop-spark) |[Morning](https://youtu.be/11DXWsZ9plk) [Afternoon](https://wework.zoom.com/rec/share/xdFRdL7-p1xORp38yGrDWaN_DpzVeaa80HRL-_RYnRrNfW5KVxofZ20kT5aqxScb) Password: commitment|
 |Mod 5 Assessment Review|N/A|[zoom](https://wework.zoom.us/rec/play/v8Aqc7j9rz43HYCQuASDAv98W9W_e6qsgSYZq_YPmh7nByEKNlLyZLYSY-s21FKEO56J5BUk9wtg5viN?continueMode=true)|
-|Graph Networks 1|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-6/day-1-graphs-networks)|[Morning](https://wework.zoom.com/rec/share/vcZRCO7b7EBLRpXg6m-PAJ4nQo3PX6a8g3NM8vVbyk-iaMVPVWwItd-WHpwWGuCY) [Afternoon](https://wework.zoom.com/rec/share/7O1Rdbre7HFOHNbr5WXEAqA9H9y_T6a823Ib8vcLzk-S0GS212bnEexqA05F9lbE) Password: commitment|
+|Graph Networks|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-6/day-1-graphs-networks)|[Morning](https://wework.zoom.com/rec/share/vcZRCO7b7EBLRpXg6m-PAJ4nQo3PX6a8g3NM8vVbyk-iaMVPVWwItd-WHpwWGuCY) [Afternoon](https://wework.zoom.com/rec/share/7O1Rdbre7HFOHNbr5WXEAqA9H9y_T6a823Ib8vcLzk-S0GS212bnEexqA05F9lbE) Password: commitment|
 |ML + NLP|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-6/day-3-nlp-2)|[Zoom](https://wework.zoom.com/rec/share/7_BuM5va7W5JToHW0xrFZbUjMI20aaa82nAZ_fYJy0bojVztsIpACp9YBRxVbIdb) Password: commitment|
 |Word Vectors|[solution]()|[Zoom](https://wework.zoom.com/rec/share/_PwqCqDbyCBLZ7Pcw2jwea4FFYvseaa8gSZI-PIEn0-kAv08exsavQRaulCWLcEQ) Password: commitment|
 
