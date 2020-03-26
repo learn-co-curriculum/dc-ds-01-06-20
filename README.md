@@ -73,4 +73,5 @@
 |Graph Networks|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-6/day-1-graphs-networks)|[Morning](https://wework.zoom.com/rec/share/vcZRCO7b7EBLRpXg6m-PAJ4nQo3PX6a8g3NM8vVbyk-iaMVPVWwItd-WHpwWGuCY) [Afternoon](https://wework.zoom.com/rec/share/7O1Rdbre7HFOHNbr5WXEAqA9H9y_T6a823Ib8vcLzk-S0GS212bnEexqA05F9lbE) Password: commitment|
 |ML + NLP|[solution](https://github.com/learn-co-students/dc-ds-010620/tree/master/module-6/day-3-nlp-2)|[Zoom](https://wework.zoom.com/rec/share/7_BuM5va7W5JToHW0xrFZbUjMI20aaa82nAZ_fYJy0bojVztsIpACp9YBRxVbIdb) Password: commitment|
 |Word Vectors|[solution]()|[Zoom](https://wework.zoom.com/rec/share/_PwqCqDbyCBLZ7Pcw2jwea4FFYvseaa8gSZI-PIEn0-kAv08exsavQRaulCWLcEQ) Password: commitment|
+|Amazon Web Services|[solution]()|[Morning](https://wework.zoom.com/rec/share/xNcud47Ly1lIeq_2uXDlcaUzNLXHaaa80ykZqaIFzBnPuK4602Kpgqfl0GVu16rA) [Afternoon](https://wework.zoom.com/rec/share/6O1uKK2zrWZJHs-X42TQBLN8LqHIT6a8gSdMqaINzkcfF0qR2yclwb3hfNLUQZvI) Password: commitment|
 
