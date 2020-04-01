@@ -75,3 +75,7 @@
 |Word Vectors|[solution]()|[Zoom](https://wework.zoom.com/rec/share/_PwqCqDbyCBLZ7Pcw2jwea4FFYvseaa8gSZI-PIEn0-kAv08exsavQRaulCWLcEQ) Password: commitment|
 |Amazon Web Services|[solution]()|[Morning](https://wework.zoom.com/rec/share/xNcud47Ly1lIeq_2uXDlcaUzNLXHaaa80ykZqaIFzBnPuK4602Kpgqfl0GVu16rA) [Afternoon](https://wework.zoom.com/rec/share/6O1uKK2zrWZJHs-X42TQBLN8LqHIT6a8gSdMqaINzkcfF0qR2yclwb3hfNLUQZvI) Password: commitment|
 
+# Module 5 :cactus:
+| Topic | Code | Video |
+|:---|:---|:---|
+|Intro To GCP|N/A|[video](https://wework.zoom.com/rec/share/zIt1F6_J_0NIXIH0yxqYW_AzL4T5T6a81XRN_qUIxU-Oo34R46GFCMppXluQLvDh?startTime=1585681876000)|
