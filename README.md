@@ -78,7 +78,8 @@
 # Module 6 :cactus:
 | Topic | Code | Video |
 |:---|:---|:---|
-|Intro to Neural Networks|N/A|[Morning](https://wework.zoom.com/rec/share/3-dLLYnC-mhLZNaS0mfjWqctIYv0eaa823MZ_aZfxBvIipuSkuPgGFNGQRmoiVGX) [Afternoon] (https://wework.zoom.com/rec/share/4-xOJuup5l9OY7PyxF76WfF4Br_bT6a8gSkXqfsEmPdX5JK340zrFhg4e7GVnt0)|
-|Keras|N/A|[Afternoon](https://wework.zoom.com/rec/share/5upbIOH96kROGZ389EjhXr4RIZj-aaa803NNr6IJmk8emFy72bo1se4d42nabzQJ)|
-|Convolutional Neural Networks|N/A|[Morning](https://wework.zoom.com/rec/share/-tBECZ3rriROTonv2gbuX68bELbgaaa8hnIa_qcJzUuklfa7GpQLHL1jKhBE0vfx)|
+|Intro to Neural Networks|N/A|[Morning](https://wework.zoom.com/rec/share/3-dLLYnC-mhLZNaS0mfjWqctIYv0eaa823MZ_aZfxBvIipuSkuPgGFNGQRmoiVGX)[Afternoon] (https://wework.zoom.com/rec/share/4-xOJuup5l9OY7PyxF76WfF4Br_bT6a8gSkXqfsEmPdX5JK340zrFhg4e7GVnt0) Password: commitment|
+
+|Keras|N/A|[Afternoon](https://wework.zoom.com/rec/share/5upbIOH96kROGZ389EjhXr4RIZj-aaa803NNr6IJmk8emFy72bo1se4d42nabzQJ) Password: commitment|
+|Convolutional Neural Networks|N/A|[Morning](https://wework.zoom.com/rec/share/-tBECZ3rriROTonv2gbuX68bELbgaaa8hnIa_qcJzUuklfa7GpQLHL1jKhBE0vfx) Password: commitment|
 |Intro To GCP|N/A|[video](https://wework.zoom.com/rec/share/zIt1F6_J_0NIXIH0yxqYW_AzL4T5T6a81XRN_qUIxU-Oo34R46GFCMppXluQLvDh?startTime=1585681876000)|
