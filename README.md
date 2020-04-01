@@ -81,4 +81,4 @@
 |Intro to Neural Networks|N/A|[Morning](https://wework.zoom.com/rec/share/3-dLLYnC-mhLZNaS0mfjWqctIYv0eaa823MZ_aZfxBvIipuSkuPgGFNGQRmoiVGX) [Afternoon](https://wework.zoom.com/rec/share/4-xOJuup5l9OY7PyxF76WfF4Br_bT6a8gSkXqfsEmPdX5JK340zrFhg4e7GVnt0) Password: commitment|
 |Keras|N/A|[Afternoon](https://wework.zoom.com/rec/share/5upbIOH96kROGZ389EjhXr4RIZj-aaa803NNr6IJmk8emFy72bo1se4d42nabzQJ) Password: commitment|
 |Convolutional Neural Networks|N/A|[Morning](https://wework.zoom.com/rec/share/-tBECZ3rriROTonv2gbuX68bELbgaaa8hnIa_qcJzUuklfa7GpQLHL1jKhBE0vfx)[Afternoon](https://wework.zoom.com/rec/share/xshKJOjc83JJXtLHzG2GB7EqG6f6T6a8hCMdrqFbyBwdfhGL4QF3T2fyoHP0h3jb)Password: commitment|
-|Intro To GCP|N/A|[video](https://wework.zoom.com/rec/share/zIt1F6_J_0NIXIH0yxqYW_AzL4T5T6a81XRN_qUIxU-Oo34R46GFCMppXluQLvDh?startTime=1585681876000)|
+|Intro To GCP|N/A|[Zoom](https://wework.zoom.com/rec/share/zIt1F6_J_0NIXIH0yxqYW_AzL4T5T6a81XRN_qUIxU-Oo34R46GFCMppXluQLvDh?startTime=1585681876000)|
