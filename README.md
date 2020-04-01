@@ -75,7 +75,9 @@
 |Word Vectors|[solution]()|[Zoom](https://wework.zoom.com/rec/share/_PwqCqDbyCBLZ7Pcw2jwea4FFYvseaa8gSZI-PIEn0-kAv08exsavQRaulCWLcEQ) Password: commitment|
 |Amazon Web Services|[solution]()|[Morning](https://wework.zoom.com/rec/share/xNcud47Ly1lIeq_2uXDlcaUzNLXHaaa80ykZqaIFzBnPuK4602Kpgqfl0GVu16rA) [Afternoon](https://wework.zoom.com/rec/share/6O1uKK2zrWZJHs-X42TQBLN8LqHIT6a8gSdMqaINzkcfF0qR2yclwb3hfNLUQZvI) Password: commitment|
 
-# Module 5 :cactus:
+# Module 6 :cactus:
 | Topic | Code | Video |
 |:---|:---|:---|
+|Intro to Neural Networks|N/A|[Morning](https://wework.zoom.com/rec/share/3-dLLYnC-mhLZNaS0mfjWqctIYv0eaa823MZ_aZfxBvIipuSkuPgGFNGQRmoiVGX) 
+[Afternoon] (https://wework.zoom.com/rec/share/4-xOJuup5l9OY7PyxF76WfF4Br_bT6a8gSkXqfsEmPdX5JK340zrFhg4e7GVnt0)|
 |Intro To GCP|N/A|[video](https://wework.zoom.com/rec/share/zIt1F6_J_0NIXIH0yxqYW_AzL4T5T6a81XRN_qUIxU-Oo34R46GFCMppXluQLvDh?startTime=1585681876000)|
